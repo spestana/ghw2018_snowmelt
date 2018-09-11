@@ -7,9 +7,10 @@ Slack channel: [#snowmelt](https://geohackweek2018.slack.com/messages/CCQT0KTHC)
 ---
 
 ### Collaborators:
-* Nicoleta Cristea (cristn@u.washington.edu) (Data Scientist)
+* Nicoleta Cristea (cristn@u.washington.edu) (Data Science Lead)
 * Steven Pestana (spestana@uw.edu) (Project Lead)
 * Cassie Lumbrazo (lumbraca@uw.edu) 
+* 
 
 ---
 
@@ -21,18 +22,18 @@ Slack channel: [#snowmelt](https://geohackweek2018.slack.com/messages/CCQT0KTHC)
 ---
 
 ### Broader Impacts: 
-* Tuolumne River Basin is Cali water supply 
-* Expecting this climate change “2015 year” temperatures to continue 
-* Impacts of climate change on this water supply for future years
-* Snow at elevation = water storage 
-* Previous work says that snowmelt will be slower in warmer temperatures- hypothesis? 
+* The Tuolumne River Basin (TRB) is a major water supply for human use in California
+* It is expected that with climate change, more future years will resemble the 2015 water year 
+* Winter snowpack in the TRB is a natural form of water storage, that may change due to climate change
+* We can test the hypothesis suggested by previous work - that snowmelt will be slower in warmer temperatures
+
 
 ---
 
 ### Application Example:
-* Incorporating streamflow, for modeling and water resources prediction
-* Used for Model Evaluation 
-* Snow accumulation/snow change in depressions, where the model doesn’t capture this
+* Incorporating streamflow, the results could help improve modeling and water resources prediction
+* Results could be compared against model outputs to evaluate a model's performance
+* Future investigations: snow accumulation/snow change in depressions (current models may not capture this well)
 
 ---
 
