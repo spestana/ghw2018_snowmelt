@@ -1,0 +1,15 @@
+name: ghw2018_snowmelt
+channels:
+- conda-forge
+dependencies:
+- python=3.6
+- geopandas
+- geojson
+- pysal
+- pyepsg
+- rasterstats
+- requests
+- folium
+- geoplot
+- seaborn
+- jupyter
