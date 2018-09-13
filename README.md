@@ -26,23 +26,6 @@ Slack channel: [#snowmelt](https://geohackweek2018.slack.com/messages/CCQT0KTHC)
 
 ---
 
-### Broader Impacts: 
-* The Tuolumne River Basin (TRB) is a major water supply for human use in California
-* Winter snowpack in the TRB is a natural form of water storage, that may change due to climate change
-* 2015 was an anamolous year in precipitation and temperature
-* It is expected that with climate change, more future years will resemble the 2015 water year 
-* We can test the hypothesis suggested by previous work - that snowmelt will be slower in warmer temperatures
-
-
----
-
-### Application Examples and Future Investigations:
-* Incorporating streamflow, the results could improve water resources modeling and prediction
-* Effects of changing snow depth patterns on species bahavior and ranges
-* Snow depth change in topographically complex depressions (current models may not capture this well)
-
----
-
 ### Data:
 https://drive.google.com/drive/folders/1uhxMHkf9YgU2qVDntqTGSbzZlJY0v94X
 * Snow depth (30m, ASO lidar-derived) 2014 - 2016
@@ -59,6 +42,19 @@ https://drive.google.com/drive/folders/1uhxMHkf9YgU2qVDntqTGSbzZlJY0v94X
 ### Ultimate goal:
 * Can we conclude that there is “slower snowmelt in a warmer world” (as posited in Musselman et al. 2017)?
 
+### Broader Impacts: 
+* The Tuolumne River Basin (TRB) is a major water supply for human use in California
+* Winter snowpack in the TRB is a natural form of water storage, that may change due to climate change
+* 2015 was an anamolous year in precipitation and temperature
+* It is expected that with climate change, more future years will resemble the 2015 water year 
+* We can test the hypothesis suggested by previous work - that snowmelt will be slower in warmer temperatures
+
+---
+
+### Application Examples and Future Investigations:
+* Incorporating streamflow, the results could improve water resources modeling and prediction
+* Effects of changing snow depth patterns on species bahavior and ranges
+* Snow depth change in topographically complex depressions (current models may not capture this well)
 ---
 
 ### Existing Methods/Tools:
@@ -69,7 +65,6 @@ https://drive.google.com/drive/folders/1uhxMHkf9YgU2qVDntqTGSbzZlJY0v94X
 ### Proposed Methods/Tools:
 * Raster/array math
 * Linear regressions
-* 
 
 ---
 
